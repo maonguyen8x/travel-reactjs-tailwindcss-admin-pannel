@@ -1,0 +1,29 @@
+export interface IReduxStates {
+  stay?: any;
+  app?: any;
+  auth?: any;
+  location?: any;
+  setting?: any;
+  user?: any;
+  report?: any;
+  post?: any;
+  tour?: any;
+  policy?: any;
+  mediaContent?: any;
+  plan?: any;
+  page?: any;
+  statistic?: any;
+  feedback?: any;
+  security?: any;
+  service?: any;
+  food?: any;
+  notification?: any;
+  activities?: any;
+  facility?: any;
+  order?: any;
+  booking?: any;
+  categoryFacility?: any;
+  categoryAmenity?: any;
+  amenities?: any;
+  table?: any;
+}

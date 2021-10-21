@@ -1,0 +1,27 @@
+.uto-box-range {
+    @media screen and (-webkit-min-device-pixel-ratio: 0) {
+        input[type='range']:focus {
+            outline: none;
+        }
+        input[type='range'] {
+            width: 100%;
+            overflow: hidden;
+            -webkit-appearance: none;
+            background-color: #f6f6f6;
+        }
+        input[type='range']::-webkit-slider-runnable-track {
+            height: 14px;
+            -webkit-appearance: none;
+        }
+        input[type='range']::-webkit-slider-thumb {
+            width: 14px;
+            -webkit-appearance: none;
+            height: 14px;
+            cursor: pointer;
+            background: #66cbff;
+            border: 1px solid #fff;
+            border-radius: 20px;
+            box-shadow: -500px 0 0 495px #66cbff;
+        }
+    }
+}

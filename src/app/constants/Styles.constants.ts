@@ -1,0 +1,103 @@
+export const FONT_WEIGHT = {
+  M_BOLD: 900,
+  BOLD: 600,
+  N_BOLD: 500,
+  THIN: 300,
+  NORMAL: 400,
+};
+
+export const SIZE_DEFAULT = {
+  H1: '30px',
+  H2: '20px',
+  H3: '10px',
+};
+
+export const PADDING_DEFAULT = {
+  PADDING_LAGER: '30px',
+  PADDING_MEDIUM: '20px',
+  PADDING_SMALL: '10px',
+};
+
+export const COLORS = {
+  WHITE: '#fff',
+  BLACK: '#000',
+  RED: '#FF0000',
+  COMPLETED: '#269C40',
+  CONFIRMED: '#00CCFF',
+  REQUEST: '#FF9900',
+  SUCCESS: '#1BC5BD',
+  ERROR: '#f64e60',
+  GRAY: '#535353',
+  DISABLED: '#e9ecef',
+  RETURN: '#FF9900;',
+  CANCELED: '#888888',
+  SUBMIT: '#269C40',
+  RESET: '#C4C4C4',
+  BACKGROUND_VIEW: '#179EBB',
+  TEXT_DEFAULT: '#0A5565',
+  BACKGROUND_DEFAULT: '#EEF5FA',
+  ICON_DEFAULT: '#0A5565',
+  ORANGE: '#FF9900',
+  CARD_DEFAULT: '#edf7f9',
+  CARD_ACTIVE: '#179ebb',
+  GREEN: '#2EBC4D',
+  BORDER_DEFAULT: '#E5E5E5',
+  TITLE_DASHBOARD: '#198298',
+  TIME_DEFAULT: '#888888',
+  CREATE_NEW_CARD: '#DEF1F5',
+  YELLOW: '#FFAD31',
+  BORDER: '#ECECEC',
+  AQUA: '#66CBFF',
+  BLOCK: 'rgba(255, 83, 72, 0.87)',
+  BLUE: '#28AEF2',
+  TEXT_SIDEBAR: '#89CDDC',
+  FOOD: '#C90000',
+  DOT: '#D0DC89',
+  N_BLUE: '#66CBFF',
+  PINK: '#FF7878',
+  N_GREEN: '#32C08D',
+  BROWN: '#945E0E',
+  TABS: '#EEF5FA',
+  TEXTAREA: '#F8F8F8',
+  NODATA: '#F6F6F6',
+  SOS: '#FC6565',
+
+  //
+  RGB_GREEN: 'rgba(38, 156, 64, 0.1)',
+  RGB_RED: 'rgba(203, 0, 27, 0.1);',
+  RGB_ORANGE: 'rgba(255, 176, 56, 0.1)',
+  RGB_BLUE: 'rgba(0, 147, 240, 0.1)',
+
+  B_POSTS: '#D1F7FF',
+  B_TOUR: '#BAE4FF',
+  B_FOOD: 'rgba(203, 0, 27, 0.1)',
+  B_STAY: '#FFF7EB',
+  B_ACTIViTY: 'rgba(23, 158, 187, 0.1)',
+
+  T_WHITE: 'white',
+  T_BLACK: 'black',
+  T_PINK: 'pink-400',
+  T_YELLOW: 'yellow-400',
+  T_BLUE: 'blue-400',
+  T_GREEN: 'green-500',
+  T_BROWN: 'yellow-900',
+  T_TEXT_DEFAULT: 'default',
+  T_RED: 'red-500',
+  T_DEFAULT: 'default',
+  T_ACTIVE: 'tab-active',
+
+  T_LOCATION: 'bg-location',
+  T_POSTS: 'bg-post',
+  T_TOUR: 'bg-tour',
+  T_FOOD: 'bg-food',
+  T_STAY: 'bg-stay',
+  T_ACTIViTY: 'bg-activity',
+};
+
+export const BACKGROUNDS = {
+  COMPLETE: '#cce9ff;',
+  CONFIRM: '#eee5ff;',
+  REQUEST: '#fff4de;',
+  SUCCESS: '#C9F7F5;',
+  ERROR: '#ffe2e5;',
+};

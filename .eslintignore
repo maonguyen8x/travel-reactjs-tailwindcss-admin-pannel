@@ -1,0 +1,6 @@
+src/serviceWorker.ts
+src/**/__tests__/**
+server.js
+tailwind.config.js
+craco.config.js
+public/**

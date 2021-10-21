@@ -1,0 +1,12 @@
+.style-picture {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.style-card {
+  border-style: none;
+}
+
+.flex {
+  display: flex;
+}

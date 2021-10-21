@@ -1,0 +1,16 @@
+export const FORMAT_TIME = 'YYYY.MM.DD HH:mm';
+export const CUSTOM_SEARCH_TIME = 'DD.MM';
+export const FORMAT_DAY = 'YYYY.MM.DD';
+export const FORMAT_MOMENT_QUERY = 'YYYY.MM.DD';
+export const FORMAT_TIME_STATISTIC = 'YYYY.MM.DD';
+export const FIRST_TIME = 'T00:00:00.000Z';
+export const LAST_TIME = 'T23:59:59.999Z';
+export const TIME_FOMART_DAY = 'DD';
+export const FORMAT_TOUR_TIME = ':00.000Z';
+export const FOARMT_DAY_CUSTOM = 'MMM DD, YYYY';
+export const FORMAT_FULL_DAY = 'YYYY, MMMM Do';
+export const FORMAT_FROM_TIME = 'hh:mm DD.MM';
+export const FORMAT_TO_TIME = 'hh:mm DD.MM.YYYY';
+export const FORMAT_HOUR = 'hh:mm';
+export const FORMAT_COMPARE_TIME = 'MM/DD/YYYY hh:mm a';
+export const FORMAT_DATE_TIME_UTC = 'YYYY.MM.DD HH:mm'; // Ngoc Son 09/06/2021

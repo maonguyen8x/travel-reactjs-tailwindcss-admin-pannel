@@ -1,0 +1,36 @@
+export const DASHBOARD_TYPES = {
+  USER: 'USER',
+  PAGE: 'PAGE',
+  POST: 'POST',
+  ACTIVITY: 'ACTIVITY',
+  LOCATION: 'LOCATION',
+  STAY: 'STAY',
+  TOUR: 'TOUR',
+  FOOD: 'FOOD',
+  REPORT: 'REPORT',
+  FEEDBACK: 'FEEDBACK',
+  CHANGE_LOCATION: 'CHANGE_LOCATION',
+  VERIFY_PAGE: 'VERIFY_PAGE',
+  PLAN: 'PLAN',
+  BOOKMARK: 'BOOKMARK',
+  DUPLICATED_LOCATION: 'DUPLICATED_LOCATION',
+};
+
+export const STATISTIC_TYPE = {
+  USER: 'USER',
+  LOCATION: 'LOCATION',
+  PLAN: 'PLAN',
+  POST: 'POST',
+  PAGE: 'PAGE',
+  STAY: 'STAY',
+  TOUR: 'TOUR',
+  FOOD: 'FOOD',
+};
+
+export const STATISTIC_DATE_TYPES = {
+  DAY: 'day',
+  WEEK: 'week',
+  MONTH: 'month',
+  YEAR: 'year',
+  CUSTOM: 'custom',
+};
